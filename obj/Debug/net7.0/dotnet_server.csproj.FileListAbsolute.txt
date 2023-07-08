@@ -1,0 +1,15 @@
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\dotnet_server.csproj.AssemblyReference.cache
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\dotnet_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\dotnet_server.AssemblyInfoInputs.cache
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\dotnet_server.AssemblyInfo.cs
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\dotnet_server.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\bin\Debug\net7.0\dotnet_server.exe
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\bin\Debug\net7.0\dotnet_server.deps.json
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\bin\Debug\net7.0\dotnet_server.runtimeconfig.json
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\bin\Debug\net7.0\dotnet_server.dll
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\bin\Debug\net7.0\dotnet_server.pdb
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\dotnet_server.dll
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\refint\dotnet_server.dll
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\dotnet_server.pdb
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\dotnet_server.genruntimeconfig.cache
+C:\Users\HP PAVILION 14\Documents\Docs\Coding_Stuff\dotnet_server\obj\Debug\net7.0\ref\dotnet_server.dll
